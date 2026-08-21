@@ -34,10 +34,12 @@ I am interested in:
 ## 📚 Teaching Interests
 
 - Linear Algebra
+- Calculus
+- Discrete Mathematics
+- Algebra
+- Topology
 - Neural Networks
 - Machine Learning
-- System of Linear Equations
-- Linear Transformations
 - Mathematical Modeling
 
 ---
