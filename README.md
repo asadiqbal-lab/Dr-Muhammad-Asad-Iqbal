@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dr. Asad
+# 👋 Hi, I'm Dr. Muhammad Asad Iqbal
 
 ## 👨‍🏫 Assistant Professor | Mathematics | AI & Machine Learning
 
